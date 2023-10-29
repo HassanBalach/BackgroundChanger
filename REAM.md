@@ -1,3 +1,3 @@
-This is my third project of react js 
+This is my third project of react js which is 
 <br>
-know as background changer
+known as background changer.
